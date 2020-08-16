@@ -1,0 +1,37 @@
+.v1 {
+  display: block;
+  margin-left: 10px;
+
+  border-radius: 10px;
+  margin-top: 15px;
+}
+.v2 {
+  display: block;
+  margin-left: 10px;
+
+  border-radius: 10px;
+  margin-top: 15px;
+}
+.v3 {
+  display: block;
+  margin-left: 10px;
+
+  border-radius: 10px;
+  margin-top: 15px;
+}
+#p1 {
+  margin-top: -145px;
+  margin-left: 370px;
+  font-size: 22px;
+}
+
+#p2 {
+  margin-top: -145px;
+  margin-left: 370px;
+  font-size: 22px;
+}
+#p3 {
+  margin-top: -145px;
+  margin-left: 370px;
+  font-size: 22px;
+}

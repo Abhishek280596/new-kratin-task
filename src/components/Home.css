@@ -1,0 +1,68 @@
+#bt1 {
+  margin-left: 45%;
+  margin-top: 2%;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+#c1 {
+  margin-left: 2%;
+  margin-right: 2%;
+  border-radius: 1rem;
+  border-start-start-radius: 1rem;
+}
+#crd1 {
+  border-radius: 1rem;
+}
+
+#c2 {
+  margin-left: 2%;
+  margin-right: 2%;
+  border-radius: 1rem;
+  border-start-start-radius: 1rem;
+}
+#crd2 {
+  border-radius: 1rem;
+}
+
+#c3 {
+  margin-left: 2%;
+  margin-right: 2%;
+  border-radius: 1rem;
+  border-start-start-radius: 1rem;
+}
+#crd3 {
+  border-radius: 1rem;
+}
+
+/* #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.card {
+  width: 45ch;
+  height: 45ch;
+  background: grey;
+  border-radius: 5px;
+  background-image: url(https://media.istockphoto.com/photos/illustration-of-sacral-and-cervical-painful-picture-id922707152?k=6&m=922707152&s=612x612&w=0&h=1gygE2ajF21V50igDSYs5SJ2sevYfkUQWfMsXoymm9c=);
+  background-size: cover;
+  /* background-position: center center; */
+/* box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.3);
+  transition: box-shadow 0.5s;
+  will-change: transform;
+  border: 15px solid rgba(255, 255, 255, 0.479); */
+/* } */
+
+/* .card:hover {
+  box-shadow: 0px 30px 100px -10px rgba(0, 0, 0, 0.4);
+} */
